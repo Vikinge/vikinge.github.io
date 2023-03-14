@@ -1,14 +1,12 @@
 # Midwater
 
 
-### Simple but effective
-[^1] content to follow
+### more content to follow
 
 :octocat:
 
 ---
-***
-___
+
 
 
 Diagram
