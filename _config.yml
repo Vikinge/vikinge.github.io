@@ -1,3 +1,4 @@
-theme: Merlot
 title: Vikinge's homepage
 description: Web site is down, Yo.
+google_analytics:
+theme: jekyll-theme-merlot
