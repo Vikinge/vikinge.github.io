@@ -13,6 +13,6 @@ Diagram
 
 ```mermaid
 pie
-"Movies" : 80
-"TV shows" : 20
+"useless data" : 80
+"useful content" : 20
 ```
