@@ -16,6 +16,6 @@
     # URLs for optional additional buttons
     additional_button_url: # optional
     # Flag to keep notification short and not display details about needs
-    hide_facts: # optional, default is false
+    hide_facts: # false
     # Test action
-    dry_run: # optional, default is false
+    dry_run: # true
