@@ -1,11 +1,9 @@
 # Midwater
 
 
-### more content to follow
+### Blogger
 
 
-Testing
-```mermaid
 Will continue to add content here
 
 April 16 2009
