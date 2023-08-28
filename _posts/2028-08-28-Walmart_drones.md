@@ -1,9 +1,7 @@
-
 ---
 title:  "Walmart offering drone delivery"
 category: drones
----![image](https://github.com/Vikinge/vikinge.github.io/assets/725760/13a6e5fc-11f1-4cb4-9e38-20efac0a5d87)
-
+---
 
 
 Wing and Walmart will offer six-mile drone deliveries over Dallas
