@@ -1,9 +1,6 @@
-# Midwater
+# Midwater.com
 
-
-### Blogger
-
-
+### Blog Postings
 
 <ul>
   {% for post in site.posts %}
